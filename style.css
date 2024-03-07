@@ -17,6 +17,7 @@ header{
 p{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 
@@ -25,6 +26,39 @@ main{
     width: 70%;
     margin: auto;
     
+}
+
+img{
+    width: 100px;
+    float: left;
+    height: 100px;
+    margin-top: 50px;
+    
+}
+.testo{
+    background-color: black;
+    width: 200px;
+    float: left;
+    height: 100px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.nome{
+    color: white;
+    display: block;
+    
+}
+.role{
+    color: white;
+    
+}
+.email{
+    color: aqua;
+    
+}
+
+section{
+    float: right;
 }
 
 
